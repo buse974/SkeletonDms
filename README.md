@@ -3,8 +3,7 @@
 ## Introduction
 
 This is a skeleton application using the Zend Framework MVC layer and module
-systems. This application is meant to be used as a starting place for those
-looking to get their feet wet with Zend Framework.
+systems With Dms.
 
 ## Installation using Composer
 
@@ -15,7 +14,7 @@ then please install as per the [documentation](https://getcomposer.org/doc/00-in
 To create your new Zend Framework project:
 
 ```bash
-$ composer create-project -sdev zendframework/skeleton-application path/to/install
+$ composer create-project buse974/skeleton-dms  path/to/install
 ```
 
 Once installed, you can test it out immediately using PHP's built-in web server:
